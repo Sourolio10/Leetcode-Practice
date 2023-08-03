@@ -39,5 +39,5 @@ maze = [[1, 0, 1, 1],
         [0, 1, 0, 1],
         [1, 1, 1, 1]]
 src = (3, 0)
-dest = (0, 3)
+dest = (0, 2)
 print(shortest_distance(maze, src, dest))
