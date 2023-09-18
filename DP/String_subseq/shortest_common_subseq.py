@@ -46,7 +46,7 @@ def lcs(s1, s2):
 def main():
     s1 = "brute"
     s2 ="groot"
-    print("The Length of Longest Palindromic Subsequence is", lcs(s1, s2))
+    print("TheShortest Common Subsequence is", lcs(s1, s2))
 
 if __name__ == '__main__':
     main()
